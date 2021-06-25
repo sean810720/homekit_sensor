@@ -1,6 +1,6 @@
 <p align="center"><h1>NodeMCU HomeKit 室內溫濕度 + 空氣品質計</h1></p>
 
-<p align="center"><h3>NodeMCU 實際接線圖</h3></p>
+<p align="center"><h3>NodeMCU 實際接線圖 (DHT11 + MQ135)</h3></p>
 <p align="left"><img width="400" src="./1.png"></p>
 
 <p align="center"><h3>在家庭 App 中顯示</h3></p>
